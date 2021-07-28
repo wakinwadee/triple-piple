@@ -10,6 +10,7 @@
 
 Схема репозитория:
 * /doc - документы, схемы. туда же, когда будут +- готовы, добавить схемы:
+* * [организация git](https://docs.google.com/document/d/147eaYoVfHWcccSUTmRlcS68OE9xHEdd-khbRppV_-f0/edit?usp=sharing)
 * * [use-case диаграмма по web](https://drive.google.com/file/d/163w0D7CImm41Q9-M6jlaJK4qQiozGRCn/view?usp=sharing)
 * * [use-case диаграмма по игровому клиенту](https://drive.google.com/file/d/1XnpMaQHGf7k6R6CMumplK8o5knOF5OJk/view?usp=sharing)
 * * [алгоритм игрового клиента - а-ля блок-схема](https://drive.google.com/file/d/1zdkAawdYq3nGmT852nRvtNFBKptZ-CBC/view?usp=sharing)
