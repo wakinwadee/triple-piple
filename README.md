@@ -15,6 +15,7 @@
 * * [use-case диаграмма по игровому клиенту](https://drive.google.com/file/d/1XnpMaQHGf7k6R6CMumplK8o5knOF5OJk/view?usp=sharing)
 * * [алгоритм игрового клиента - а-ля блок-схема](https://drive.google.com/file/d/1zdkAawdYq3nGmT852nRvtNFBKptZ-CBC/view?usp=sharing)
 * * [ER-диаграмма БД](https://drive.google.com/file/d/128lTkM9xO14fj8A4ew2kjqYoi1nZiOgg/view?usp=sharing)
+* * [мокапы для web](https://drive.google.com/file/d/1fYkW6pl5dDqeHopVgifijaFCSh796kjW/view?usp=sharing)
 
 TODO:
 * добавить в /doc директорию с мокапами и вьюхами
