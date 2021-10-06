@@ -5,9 +5,6 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    const string HORIZONTAL = "Horizontal";
-    const string VERTICAL = "Vertical";
-    const string OBSTRUCTION = "Obstruction";
 
     private Plane aimPlane;
     private Rigidbody ownRigidbody;
@@ -45,7 +42,7 @@ public class PlayerController : MonoBehaviour
             ownController.Move(playerVelocity * Time.deltaTime);
         }
 
-        Vector3 move = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+        Vector3 move = new Vector3(Input.GetAxis(Constants.HORIZONTAL), 0, Input.GetAxis(Constants.VERTICAL));
         ownController.Move(move * Time.deltaTime * -playerSpeed);
 
        if (move != Vector3.zero)
