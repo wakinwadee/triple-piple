@@ -7,7 +7,6 @@ public class EnemySpawner : MonoBehaviour
     // Player in safe radius will prevent enemy spawn
     public float safeRange = 10f;
     public GameObject enemyPrefab;
-
     private GameObject playerGameObject;
 
     // Start is called before the first frame update

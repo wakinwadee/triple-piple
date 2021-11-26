@@ -14,6 +14,8 @@ public class EntitiesManager : MonoBehaviour
 
     public static EntitiesManager Instance { get; private set; }
 
+
+  
     private void Awake()
     {
         if (Instance == null)
@@ -35,6 +37,7 @@ public class EntitiesManager : MonoBehaviour
         if (avaibleEnemyNumber > aliveEnemyCounter) return true;
         else return false;
     }
+
 
 
 
